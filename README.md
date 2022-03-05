@@ -1,0 +1,2 @@
+# GameDice
+Randomizer dice game
